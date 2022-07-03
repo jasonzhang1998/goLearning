@@ -1,3 +1,3 @@
-module leetcode
+module goLearning
 
 go 1.17
