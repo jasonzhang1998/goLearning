@@ -1,5 +1,7 @@
 package main
 
+// 判断回文数
+
 import (
 	"fmt"
 	"strconv"
